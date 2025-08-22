@@ -4,7 +4,7 @@ Hi, I’m Hayden 👋 — a CS student passionate about combining computing and 
 
 ---
 
-## 🛰️ Featured Projects
+## Featured Projects
 
 ### 1. [RF Threat Detection System - Prototype]([https://github.com/yourusername/ai_rf_threat_detector](https://github.com/haydendansereau88/ai-rf-threat-detector.git)
 A **proof-of-concept ML system** for automated classification of RF (Radio Frequency) signals.  
