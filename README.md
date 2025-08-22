@@ -6,7 +6,7 @@ Hi, I’m Hayden 👋 — a CS student passionate about combining computing and 
 
 ## Featured Projects
 
-### 1. [RF Threat Detection System - Prototype]([https://github.com/yourusername/ai_rf_threat_detector]https://github.com/haydendansereau88/ai-rf-threat-detector.git
+### 1. [RF Threat Detection System - Prototype]([https://github.com/yourusername/ai_rf_threat_detector]
 A **proof-of-concept ML system** for automated classification of RF (Radio Frequency) signals.  
 Explores how **signal processing + machine learning** can be used for defense and spectrum monitoring.
 
@@ -20,7 +20,7 @@ Explores how **signal processing + machine learning** can be used for defense an
 
 ---
 
-### 2. [Satellite Collision Avoidance System - Prototype]([https://github.com/yourusername/satellite-collision-avoidance]https://github.com/haydendansereau88/satellite_collision_avoidance.git
+### 2. [Satellite Collision Avoidance System - Prototype]([https://github.com/yourusername/satellite-collision-avoidance]
 A **prototype AI-powered system** for satellite collision detection and maneuver planning, built on real orbital mechanics.  
 Demonstrates the application of **machine learning** and **optimization** to space situational awareness.
 
