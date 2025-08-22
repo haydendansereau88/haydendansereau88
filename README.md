@@ -4,4 +4,3 @@ https://github.com/haydendansereau88/ai-rf-threat-detector.git
 
 https://github.com/haydendansereau88/satellite_collision_avoidance.git
 
-https://github.com/haydendansereau88/Audio-Files.git
